@@ -1,1 +1,37 @@
 # flask-form-submission
+### Set a simple webpage  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My Assignment - Simple Web Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header with Title and Navigation Menu -->
+    <header>
+        <h1> Assignment Web Page</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Area -->
+    <main>
+        <h2>Welcome to the My Web Page</h2>
+        <p>This is the main content area where we can add any text or information. It serves as a placeholder for more complex content later on.</p>
+    </main>
+
+    <!-- Footer with Contact Information -->
+    <footer>
+        <p>Contact Us: email@intern.com | Phone: 9816238595 </p>
+    </footer>
+</body>
+</html>
+
